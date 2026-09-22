@@ -1,9 +1,9 @@
 {
-  "name": "Spoti.pw",
+  "name": "SpotifyEnhanced",
   "identifier": "com.dlethh.spoti.source",
   "apps": [
     {
-      "name": "Spoti.pw",
+      "name": "SpotifyEnhanced",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "dlethh",
       "localizedDescription": "Spotify with the Spoti.pw tweak.",
