@@ -7,7 +7,7 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "dlethh",
       "localizedDescription": "Spotify with the Spoti.pw tweak.",
-      "iconURL": "https://raw.githubusercontent.com/dlethh/spoti.pw/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/dlethh/spoti.pw/main/docs/icon.png",
       "versions": [
         {
           "version": "9.1.84",
